@@ -22,3 +22,5 @@ chmod 600 fol_2/2_1.txt fol_2/2_3.txt
 #command to update permissions to read/write.execute for all - if chmod worked in windows
 chmod 777 fol_1/1_2.txt
 chmod 777 fol_2/2_2.txt
+
+Job completed
